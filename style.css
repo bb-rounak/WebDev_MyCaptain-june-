@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+	text-align: center;
+}
+h1{
+	font-size: 100px;
+	color: tomato;
+}
+p.intro{
+	font-size: 35px;
+	color: yellow;
+}
+p.meaningless{
+	font-size: 20px;
+	color: white;
+}
